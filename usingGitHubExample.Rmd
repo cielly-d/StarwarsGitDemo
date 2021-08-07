@@ -128,7 +128,7 @@ Insert some text here
 
 ```
 
-Group 8
+The Jedis
 ===
 
 Insert some text here
